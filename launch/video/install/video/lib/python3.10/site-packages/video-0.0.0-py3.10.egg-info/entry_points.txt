@@ -1,0 +1,3 @@
+[console_scripts]
+video_sub = video_subscriber:main
+

@@ -1,0 +1,23 @@
+[0.400s] Invoking command in '/home/farhan/RoboSub/Topside/launch/video': PYTHONPATH=/home/farhan/RoboSub/Topside/launch/build/video/prefix_override:/home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/video build --build-base /home/farhan/RoboSub/Topside/launch/build/video/build install --record /home/farhan/RoboSub/Topside/launch/build/video/install.log --single-version-externally-managed
+[0.545s] running egg_info
+[0.546s] writing ../build/video/video.egg-info/PKG-INFO
+[0.546s] writing dependency_links to ../build/video/video.egg-info/dependency_links.txt
+[0.546s] writing entry points to ../build/video/video.egg-info/entry_points.txt
+[0.546s] writing requirements to ../build/video/video.egg-info/requires.txt
+[0.546s] writing top-level names to ../build/video/video.egg-info/top_level.txt
+[0.547s] reading manifest file '../build/video/video.egg-info/SOURCES.txt'
+[0.547s] writing manifest file '../build/video/video.egg-info/SOURCES.txt'
+[0.548s] running build
+[0.548s] running build_py
+[0.548s] running install
+[0.548s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.548s]   warnings.warn(
+[0.548s] running install_lib
+[0.549s] running install_data
+[0.549s] running install_egg_info
+[0.550s] removing '/home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video-0.0.0-py3.10.egg-info' (and everything under it)
+[0.550s] Copying ../build/video/video.egg-info to /home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video-0.0.0-py3.10.egg-info
+[0.551s] running install_scripts
+[0.564s] Installing video_sub script to /home/farhan/RoboSub/Topside/launch/install/video/lib/video
+[0.564s] writing list of installed files to '/home/farhan/RoboSub/Topside/launch/build/video/install.log'
+[0.583s] Invoked command in '/home/farhan/RoboSub/Topside/launch/video' returned '0': PYTHONPATH=/home/farhan/RoboSub/Topside/launch/build/video/prefix_override:/home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/video build --build-base /home/farhan/RoboSub/Topside/launch/build/video/build install --record /home/farhan/RoboSub/Topside/launch/build/video/install.log --single-version-externally-managed

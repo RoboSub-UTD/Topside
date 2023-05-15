@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+video_subscriber.py
+build/video/video.egg-info/PKG-INFO
+build/video/video.egg-info/SOURCES.txt
+build/video/video.egg-info/dependency_links.txt
+build/video/video.egg-info/entry_points.txt
+build/video/video.egg-info/requires.txt
+build/video/video.egg-info/top_level.txt
+build/video/video.egg-info/zip-safe
+resource/video
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+video/__init__.py

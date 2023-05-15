@@ -1,0 +1,38 @@
+running egg_info
+creating ../build/video/video.egg-info
+writing ../build/video/video.egg-info/PKG-INFO
+writing dependency_links to ../build/video/video.egg-info/dependency_links.txt
+writing entry points to ../build/video/video.egg-info/entry_points.txt
+writing requirements to ../build/video/video.egg-info/requires.txt
+writing top-level names to ../build/video/video.egg-info/top_level.txt
+writing manifest file '../build/video/video.egg-info/SOURCES.txt'
+file video_subscriber.py (for module video_subscriber) not found
+reading manifest file '../build/video/video.egg-info/SOURCES.txt'
+file video_subscriber.py (for module video_subscriber) not found
+writing manifest file '../build/video/video.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/farhan/RoboSub/Topside/launch/build/video/build
+creating /home/farhan/RoboSub/Topside/launch/build/video/build/lib
+creating /home/farhan/RoboSub/Topside/launch/build/video/build/lib/video
+copying video/__init__.py -> /home/farhan/RoboSub/Topside/launch/build/video/build/lib/video
+running install
+file video_subscriber.py (for module video_subscriber) not found
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video
+copying /home/farhan/RoboSub/Topside/launch/build/video/build/lib/video/__init__.py -> /home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video
+byte-compiling /home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/farhan/RoboSub/Topside/launch/install/video/share/ament_index
+creating /home/farhan/RoboSub/Topside/launch/install/video/share/ament_index/resource_index
+creating /home/farhan/RoboSub/Topside/launch/install/video/share/ament_index/resource_index/packages
+copying resource/video -> /home/farhan/RoboSub/Topside/launch/install/video/share/ament_index/resource_index/packages
+copying package.xml -> /home/farhan/RoboSub/Topside/launch/install/video/share/video
+running install_egg_info
+Copying ../build/video/video.egg-info to /home/farhan/RoboSub/Topside/launch/install/video/lib/python3.10/site-packages/video-0.0.0-py3.10.egg-info
+running install_scripts
+Installing video_sub script to /home/farhan/RoboSub/Topside/launch/install/video/lib/video
+writing list of installed files to '/home/farhan/RoboSub/Topside/launch/build/video/install.log'
+file video_subscriber.py (for module video_subscriber) not found
